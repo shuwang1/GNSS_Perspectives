@@ -1,2 +1,1 @@
-# GNSS System Design
-GNSS Measurement Engine Design: Communication Engineering Perpsectives
+# GNSS Measurement Engine System Design: Communication Engineering Perpsectives
